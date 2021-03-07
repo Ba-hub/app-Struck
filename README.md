@@ -30,3 +30,5 @@ python or python2 app-Struck.py Facebook.apk
 <strong>USAGE</strong>: python or python2 app-Struck.py any.apk
 
 
+### Made By : Ghosthub ( http://iconicbabay.medianewsonline.com )
+
